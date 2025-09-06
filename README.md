@@ -127,5 +127,3 @@ This repository is maintained by Sumit Suresh Madhav, a Data Analyst with over 8
 - **Name**: Sumit Suresh Madhav
 - **Title**: Data Analyst
 - **Email**: madhavsumit369@gmail.com
-- **GitHub**: Sumit Suresh Madhav
-- **LinkedIn**: Sumit Suresh Madhav
